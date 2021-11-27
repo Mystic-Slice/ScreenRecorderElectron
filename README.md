@@ -1,2 +1,2 @@
 # ScreenRecorderElectron
-First electron app
+Experimenting with Electron.js library.
